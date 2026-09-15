@@ -1,0 +1,6 @@
+{
+  "name": "Enterprise User Administration Portal",
+  "description": "Enterprise administration portal with Super Admin dashboard, Supabase authentication, user management, dedicated user dashboards, and LMS course management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
