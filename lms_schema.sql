@@ -1,8 +1,4 @@
--- ==============================================================================
--- LMS (Learning Management System) Database Schema & Storage Configuration
--- Compatible with PostgreSQL & Supabase
--- Target Bucket: 'lms_bucket' (Public)
--- ==============================================================================
+
 
 -- 1. COURSES TABLE
 CREATE TABLE IF NOT EXISTS public.courses (
