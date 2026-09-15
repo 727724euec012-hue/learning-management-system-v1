@@ -1,7 +1,4 @@
--- ==============================================================================
--- Enterprise IAM & User Management Database Schema
--- Compatible with PostgreSQL & Supabase
--- ==============================================================================
+
 
 -- 1. USERS TABLE
 -- Stores directory user accounts, roles, statuses, and authentication metadata
